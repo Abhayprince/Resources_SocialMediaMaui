@@ -21,4 +21,4 @@ Images used in the app are from [Pixabay](https://pixabay.com) and [FlatIcon](ht
 - Image by [Pexels](https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1854110) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1854110)
 - Image by [Steve Buissinne](https://pixabay.com/users/stevepb-282134/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2465478) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2465478)
 
-Marketing icons created by [Freepik](https://www.flaticon.com/free-icons/marketing)
+Marketing icons created by [Flaticon](https://www.flaticon.com/free-icons/marketing)
