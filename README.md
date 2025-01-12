@@ -1,5 +1,7 @@
-# Resources_SocialMediaMaui
-Resources used in Social Media MAUI App
+# Resources used in Social Media MAUI App 
+### A Fullstack Social Media Cross Platform Mobile App built using .NET MAUI + XAML + Asp.Net core Minimal Api + SignalR + EF Core with SQL Server - .Net 9
+
+
 
 ## Credits
 
